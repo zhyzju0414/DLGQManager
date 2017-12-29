@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SPARK+HBASE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../SPARK+HBASE" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../SPARK+HBASE" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../SPARK+HBASE" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../SPARK+HBASE" recursive="false" type="SOURCES" />
+  </library>
+</component>

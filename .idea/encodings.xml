@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/Common/CommonSettings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/ChangeDetection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/RangeCondition/DistrictRange.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/RangeCondition/RangeCondition.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/RangeCondition/RangeConditionFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/SpatialBuffer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/SpatialClip.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/TransformFunctions/ChangeDetectMapFunction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/TransformFunctions/LcraBufferMapFunction_poly.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ParallelTools/TransformFunctions/LcraClipMapFunction_Poly.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/edu/zju/gis/spark/ResultSaver/ShapeFileWriteThread.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

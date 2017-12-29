@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gdal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../gdal_dll/gdal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

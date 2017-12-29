@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lucene-queries-5.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lucene/lucene-queries/5.5.1/lucene-queries-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lucene/lucene-sandbox/5.5.1/lucene-sandbox-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lucene/lucene-queryparser/5.5.1/lucene-queryparser-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lucene/lucene-core/5.5.1/lucene-core-5.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lucene/lucene-analyzers-common/5.5.1/lucene-analyzers-common-5.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
